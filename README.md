@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @srabade22 (Sandip Rabade)
+- 👀 I’m interested in Web Application Development, DevOps, and Agile Methodology.
+- 🌱 I’m currently learning more about Cloud-native development and Docker containerization.
+- 💞️ I’m looking to collaborate on projects involving Microsoft technologies, cloud architecture, and modern web development frameworks.
+- 📫 How to reach me: srabade22@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve developed over 120 websites and still love the challenge of building something new!
